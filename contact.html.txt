@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Контакты</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Контактная информация</h1>
+        <nav>
+            <ul>
+                <li><a href="3index.html">Главная</a></li>
+                <li><a href="tasks.html">Задачи</a></li>
+                <li><a href="contact.html">Контакты</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <p>Вы можете связаться с нами по email: <a href="mailto:info@informatics.com">info@informatics.com</a></p>
+    </main>
+    <footer>
+        <p>&copy; 2025 Ваш сайт по информатике</p>
+    </footer>
+</body>
+</html>

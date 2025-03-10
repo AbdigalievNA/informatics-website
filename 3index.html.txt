@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Информатика</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Добро пожаловать на сайт по информатике!</h1>
+        <nav>
+            <ul>
+                <li><a href="3index.html">Главная</a></li>
+                <li><a href="tasks.html">Задачи</a></li>
+                <li><a href="contact.html">Контакты</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <h2>О сайте</h2>
+        <p>Здесь вы найдете задачи по информатике, решения и пояснения.</p>
+    </main>
+    <footer>
+        <p>&copy; 2025 Ваш сайт по информатике</p>
+    </footer>
+</body>
+</html>

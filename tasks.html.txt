@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Задачи по информатике</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Задачи по информатике</h1>
+        <nav>
+            <ul>
+                <li><a href="3index.html">Главная</a></li>
+                <li><a href="tasks.html">Задачи</a></li>
+                <li><a href="contact.html">Контакты</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <h2>Задача 1: Алгоритмы сортировки</h2>
+        <p>Опишите алгоритм сортировки пузырьком и реализуйте его на Python.</p>
+        
+        <h2>Задача 2: Структуры данных</h2>
+        <p>Реализуйте стек с помощью списка в Python.</p>
+    </main>
+    <footer>
+        <p>&copy; 2025 Ваш сайт по информатике</p>
+    </footer>
+</body>
+</html>
